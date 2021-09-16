@@ -1,60 +1,59 @@
 {
-    "ads_mode" : "yandex",
-    "interstitial_interval": 1,
-    "native_interval": 2,
+		"ads_mode": "yandex",
+		"interstitial_interval": 1,
+		"native_interval": 2,
 
-    "admost_app_id" : "cf834bb4-663e-422d-97c8-96f26d7a8f8a",
-    "admost_banner_id" : "banner",
-    "admost_native_id" : "native",
-    "admost_interstitial_id" : "interstitial",
+		"admost_app_id": "d21ff38e-4654-4d86-8215-92485c3bf394",
+		"admost_banner_id": "f3e63686-3966-4cc5-8de7-cc0c6f4afca1",
+		"admost_native_id": "6a51466e-6b81-4bc4-9d8b-d788d528f555",
+		"admost_interstitial_id": "25fb0458-173a-41af-aaa9-5457f0a3c43a",
 
-    "tapdaq_app_id" : "60c3349f08fe6c2d735d663a",
-    "tapdaq_client_key" : "fbce30ca-5e3a-44c6-9bc1-7fa49668c4a3",
-    "tapdaq_banner_id" : " Banner",
-    "tapdaq_native_id" : "Native",
-    "tapdaq_interstitial_id" : "Inter",
+		"tapdaq_app_id": "6133577386c31c4e07c10b3c",
+		"tapdaq_client_key": "8b44c86d-4840-4d1b-be92-5897aabccdbb",
+		"tapdaq_banner_id": " default",
+		"tapdaq_native_id": "default",
+		"tapdaq_interstitial_id": "default",
 
-    "yandex_app_id" : "",
-    "yandex_banner_id" : "R-M-DEMO-320x50",
-    "yandex_native_id" : "R-M-DEMO-300x250",
-    "yandex_interstitial_id" : "R-M-DEMO-480x320",
+		"yandex_app_id": "",
+		"yandex_banner_id": "R-M-DEMO-320x50",
+		"yandex_native_id": "R-M-DEMO-300x250",
+		"yandex_interstitial_id": "R-M-DEMO-480x320",
 
-    "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
-    "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
-    "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+		"admob_banner_id": "ca-app-pub-3027150958666566/9908936264",
+		"admob_native_id": "ca-app-pub-3027150958666566/3987699208",
+		"admob_interstitial_id": "ca-app-pub-3027150958666566/3483128719",
 
-    "content":[
-      {
-        "title": "title1",
-        "description": "Cras tincidunt quis urna eu blandit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu lacinia velit, quis ultrices dolor.//BREAK// Nulla mattis leo vitae pellentesque pretium. Sed commodo dui dolor. Aenean id sapien dignissim, vehicula mauris ut, sollicitudin nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
-        "image":"1.jpg"
-      },
-      {
-        "title": "title2",
-        "description": "Nulla quis lorem a nunc semper finibus tincidunt ac odio. Vivamus volutpat volutpat risus, quis suscipit nunc tincidunt vel. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer ut nibh et augue consequat consequat. Vestibulum vel libero ut lorem mollis blandit. Maecenas lacinia ligula sit amet odio posuere, sed dictum mi gravida. Nulla rhoncus, leo nec hendrerit commodo, dolor felis varius velit,//BREAK// at semper ligula turpis ac mi. Cras at arcu sed arcu porta venenatis. Mauris luctus auctor magna, sit amet luctus lacus dignissim consequat. Ut sed lacus a lectus vehicula condimentum sed ut lacus. Sed tincidunt fermentum justo maximus hendrerit.",
-        "image":"2.jpg"
-      },
-      {
+		"content": [{
+				"title": "DUPLEX IPTV GUIDE FOR SMART TV",
+				"description": "Watch IPTV from your Smart TV.//BREAK//1 - Download the duplex iptv appfor your SMARTTV marketplace2 - On your computer go to https: //edit.duplex iptv .com/3 - Put your TV MAC address and upload your m3u list then click on submit 4 - Reboot your TV Enjoy Live Channels ",
+				"image": "https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
+			},
+			{
+				"title": "DUPLEX IPTV GUIDE FOR ANDROID DEVICES",
+				"description": "Watch IPTV from your Android devices://BREAK//1 - Open the Google Play Store App on your Android device 2 - On the Search field,searchfor duplex iptv 3 - Download the App on your Device 4 - On your computer or smartphone go to https: //edit.duplex iptv.com/5 - Put your APP MAC address and upload your m3u list then click on submit 6 - Reboot your APP Enjoy Live Channels ",
+				"image": "https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
+			},
+			{
 
-        "title": "title3",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.//BREAK// Nam bibendum ipsum ligula, fringilla finibus dolor consequat et. Donec ex dolor, cursus vitae enim et, blandit egestas odio. Praesent a elementum ante. Vestibulum dolor urna, dapibus vitae egestas eu, volutpat id nulla. Vestibulum in elit eget mauris scelerisque volutpat vel vel ipsum. Nunc iaculis lacinia nisl a faucibus. Cras volutpat enim eu scelerisque egestas. Nulla facilisi. Sed gravida ante rutrum erat scelerisque bibendum. Phasellus rutrum eros velit, eget porttitor ante posuere et.",
-        "image":"3.jpg"
-      },
-      {
-        "title": "title4",
-        "description": "Praesent in neque ac tellus posuere pharetra. Curabitur a commodo erat, id eleifend odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.//BREAK// Mauris sem nisl, vulputate id viverra quis, consectetur vitae nisi. Etiam scelerisque sem felis, in interdum quam ullamcorper vel. Etiam tempus tincidunt pretium. Ut id turpis et est blandit fermentum a ac dui. Ut ornare condimentum vehicula. Integer malesuada magna tortor.",
-        "image":"4.jpg"
-      },
-      {
-        "title": "title5",
-        "description": "Mauris sed ligula eu eros porta convallis. Aliquam rutrum suscipit nisl non volutpat. Nulla quam lectus, tincidunt eu tortor eu, porttitor blandit odio. Morbi laoreet dui quam, sit amet blandit ex ornare id. Proin ultricies sapien eget pulvinar faucibus. Curabitur varius blandit pretium. Morbi sit amet nunc orci. //BREAK// Proin ex mi, iaculis vel augue sit amet, tempor vestibulum diam. Ut eget placerat leo. Maecenas enim velit, efficitur sit amet ornare at, fermentum sit amet est.",
-        "image":"5.jpg"
-      },
-      {
-        "title": "title6",
-        "description": "description example lorem ipsum doli",
-        "image":"6.jpg"
-      }
+				"title": "DUPLEX IPTV GUIDE FOR APPLE DEVICES",
+				"description": "Watch IPTV from your iOS devices://BREAK//1 - Open the APP Store on your Apple device2 - On the Search field,searchfor duplex iptv 3 - Download the App on your Device 4 - On your computer or smartphone go to https: //edit.duplex iptv.com/5 - Put your APP MAC address and upload your m3u list then click on submit 6 - Reboot your APP Enjoy Live Channels ",
+				"image": "https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
+			},
+			{
+				"title": "IPTV GUIDE FOR PC",
+				"description": "Watch IPTV from your laptop or disktop://BREAK//1- Download VLC form the official website https: //www.videolan.org/vlc/index.html 2- Download your M3U file and open it with VLC 3- Enjoy Live Channels! if you need m3u file contact us ",
+				"image": "https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
+			},
+			{
+				"title": "IPTV GUIDE FOR MAGBOX DEVICES",
+				"description": "Watch IPTV from your Mag device.//BREAK//1 - On your MAG device,go to Settings > Servers and Portals2 - On the Portal 1 name,input the portal URL available on your email or whatsapp 3 - Press OK to save and then reboot your device 4 - Enjoy Live Channels!",
+				"image": "https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
+			},
+			{
+				"title": "IPTV GUIDE FOR MACBOX DEVICES CONCLUSION",
+				"description": "Conclusion://BREAK//Watching our Favorite TV Channels and shows from the Comfort place and from the working place can be achievable with the help of the iptvfor all devices(mobile, disktop, magbox, Laptop).Simply Download the app by following the above process.And you do not need to payfora subscription,whole content can be viewed free.it consumes very fewer data as compared to the other Live Streaming Applications.",
+				"image": "https://lh3.googleusercontent.com/gkl7TsYzdcrQBJT1aRwpDqFfUrVzHG6vwwSDklH8DR6C_Adu7-nk53Yc8R6If2GZMg"
+			}
 
-    ]
-  }
+		]
+	}
